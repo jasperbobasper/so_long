@@ -1,6 +1,7 @@
 # so_long - Escape the Dungeon!
 
 ⚠️ Code coming soon ⚠️
+
 In the project so_long, I had the opportunity to create a basic 2D game using 42's custom graphical library called MiniLibX. 
 
 The gameplay involves collecting all the collectibles on the map and then heading to the exit to win. The map is rendered at launch, by reading a .ber file defined by the user. 
